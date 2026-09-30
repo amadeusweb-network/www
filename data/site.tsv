@@ -6,6 +6,8 @@ year	2019
 |labels and messages
 iconName	AmadeusWeb.in
 siteMenuName	AW Home
+description	Introduces the Dynamic AmadeusWeb Network as a Social Experiment.
+notes	Built on YieldMore, founded 2013, Also Tripping, 2005, largely AI Generated.
 welcome-message	This is a DAWN Site
 footer-message	DAWN
 
@@ -15,6 +17,6 @@ mediakit	?palette=default
 |fonts	cursive=Eagle+Lake&menu=Quintessential&menu-size=1.3rem
 
 |technical
-sections	welcome, with-ai, whois
+sections	start, welcome, with-ai, More: whois+dawn+opus
 local-url	http://localhost/amadeusweb/www/
 live-url	https://amadeusweb.in/
