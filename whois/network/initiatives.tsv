@@ -1,0 +1,8 @@
+|is-table
+||cloneAt: amadeusweb/initiatives/
+||renderWith: repos.php
+||Description: Initiatives of the Internet of Missions
+||Primary Keyword: DAWN
+||Keywords: Initiatives, DAWN
+#at	from
+care	https://github.com/amadeusweb-sites/care.git

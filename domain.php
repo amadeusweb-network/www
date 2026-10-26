@@ -9,8 +9,9 @@ domain::add('amadeusweb', __DIR__, false, new domain([
 	],
 	['%folder%www', 'spring', '%folder%by-imran/imran'],
 	[
-		'ours',
-		'by-imran',
-		'friends',
+		'businesses',
+		'shasa',
+		'people',
+		'initiatives',
 	],
 ));

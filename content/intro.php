@@ -1,8 +1,8 @@
 <?php
 $skip = getQueryParameter('explore-only');
 
-if ($skip) echo tagUX::h2Plain('EXPLORING SITE ' . returnLine('[SEE ENTIRE HOME PAGE](%url%BTNPRIMARY)'), 'text-center my-2');
-if (!$skip) echo tagUX::h2Plain('DAWN ' .  returnLine('[EXPLORE ONLY](%url%?explore-only=1BTNSUCCESS)'), 'text-center my-2');
+if ($skip) echo tagUX::h2Plain('EXPLORING SITE ' . returnLine('[SEE ENTIRE HOME PAGE](%url%%nodeSlug%/BTNPRIMARY)'), 'text-center my-2');
+if (!$skip) echo tagUX::h2Plain('DAWN ' .  returnLine('[EXPLORE ONLY](%url%%nodeSlug%/?explore-only=1BTNSUCCESS)'), 'text-center my-2');
 if (!$skip) echo tagUX::contentBox(nodeValue(), cssUX::container);
 
 $home = [

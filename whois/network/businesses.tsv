@@ -1,0 +1,16 @@
+|is-table
+||cloneAt: amadeusweb/businesses/
+||renderWith: repos.php
+||Description: Conscious Businesses of the Internet of Missions
+||Primary Keyword: DAWN
+||Keywords: Conscious Businesses, Sunlight, DAWN
+#at	from
+gani	https://github.com/amadeusweb-sites/gani.git
+gani/legacy	https://github.com/amadeusweb-sites/gani-legacy.git
+gani/tcd	https://github.com/amadeusweb-sites/gani-tcd.git
+atoo	https://github.com/amadeusweb-sites/atoo.git
+autosaint	https://github.com/amadeusweb-sites/autosaint.git
+autosaint/with-ai	https://github.com/amadeusweb-sites/autosaint-with-ai.git
+autosaint/team/ravindran/articles	https://github.com/amadeusweb-sites/autosaint-ravindran--articles.git
+prometheus	https://github.com/amadeusweb-sites/prometheus.git
+watchmaker	https://github.com/amadeusweb-sites/watchmaker.git
