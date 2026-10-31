@@ -8,5 +8,7 @@
 ganymede	https://github.com/amadeusweb-sites/ganymede.git
 goodness	https://github.com/amadeusweb-sites/goodness.git
 imagine	https://github.com/amadeusweb-sites/imagine.git
-moonwalk	https://github.com/moonwalksm/moonwalk.git
+moonwalk	https://github.com/amadeusweb-sites/moonwalk.git
+moonwalk/assets/cdn	https://github.com/moonwalksm/cdn.git
+moonwalk/courses	https://github.com/moonwalksm/courses.git
 venkat	https://github.com/amadeusweb-members/venkat.git
